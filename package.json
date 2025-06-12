@@ -1,5 +1,5 @@
 {
-  "name": "@jacorales/package-gha",
+  "name": "@jcorales/package-gha",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
